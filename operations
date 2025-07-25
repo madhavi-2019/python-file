@@ -1,0 +1,14 @@
+Task-1
+a=8
+b=4
+print(a+b)=12
+print(a*b)=32
+print(a-b)=4
+print(a/b)=2.0
+Task-2
+firstname='madhavi'
+lastname=' patharpalli'
+a='hello,'
+b=' congratulation'
+print(a+firstname+lastname+b)
+hello,madhavi patharpalli congratulation
